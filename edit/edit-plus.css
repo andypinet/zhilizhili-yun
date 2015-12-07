@@ -1,0 +1,48 @@
+.editormd-form {
+  height: 170px;
+  text-align: center; }
+
+.editormd-dialog-footer {
+  position: absolute;
+  right: 20px;
+  bottom: 20px; }
+
+.editormd-menu li + li {
+  float: right; }
+
+.lfx-uploadify-button {
+  background-color: #505050;
+  background-position: center top;
+  background-repeat: no-repeat;
+  border-radius: 30px;
+  border: 2px solid #808080;
+  color: #FFF;
+  font: bold 12px Arial, Helvetica, sans-serif;
+  text-align: center;
+  text-shadow: 0 -1px 0 rgba(0, 0, 0, 0.25);
+  width: 100%; }
+
+.lfx-uploadify:hover .lfx-uploadify-button {
+  background-color: #606060;
+  background-position: center bottom; }
+
+.lfx-uploadify-button.disabled {
+  background-color: #D0D0D0;
+  color: #808080; }
+
+.upload-btn {
+  position: relative;
+  top: 30px;
+  width: 120px;
+  line-height: 36px; }
+  .upload-btn input {
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    position: absolute;
+    cursor: pointer; }
+
+
+
+/*# sourceMappingURL=map/edit-plus.css.map */
